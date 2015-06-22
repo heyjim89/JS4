@@ -25,7 +25,6 @@ for(var i=0; i<victimCount; i++) {
 var volunteerCount = prompt('How many volunteers?');
 
 for(var i=0; i<volunteerCount; i++) {
-
 	volunteerName.push(prompt("Enter the volunteer's name:"));
 	volunteerPhone.push(prompt("Enter the volunteer's phone number:"));
 	volunteerStreet.push(prompt("Enter the volunteer's street:"));
